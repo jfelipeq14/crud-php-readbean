@@ -1,0 +1,15 @@
+{
+  "name": "jfelipeq14/api",
+  "autoload": {
+    "psr-4": {
+      "Jfelipeq14\\Api\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "jfelipeq14",
+      "email": "juan_fquintero@soy.sena.edu.co"
+    }
+  ],
+  "require": {}
+}
