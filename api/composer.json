@@ -11,5 +11,7 @@
       "email": "juan_fquintero@soy.sena.edu.co"
     }
   ],
-  "require": {}
+  "require": {
+    "bramus/router": "~1.6"
+  }
 }
